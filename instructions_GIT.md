@@ -8,6 +8,10 @@
 git config --global user.name "Aleksandr"
 git config --global user.email ucheba11univer@gmail.com
 
+*Проверить все ли работает корректно можно с помощью команды:*
+
+**get status**
+
 
 
 
